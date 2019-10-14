@@ -7,7 +7,8 @@ tags:
   - tags
   - sometags
 ---
+
 body
 ##body
 
-![alt text](/img/avatar.png "img title")
+![alt text](/media/banner-small.png 'img title')
