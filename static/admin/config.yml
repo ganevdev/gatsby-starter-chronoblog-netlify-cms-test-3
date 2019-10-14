@@ -7,7 +7,7 @@ public_folder: /media
 
 collections:
   - name: "blog"
-    label: "Blog"
+    label: "Blog Post"
     folder: "content/posts"
     create: true
     slug: "{{slug}}"
