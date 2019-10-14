@@ -9,6 +9,7 @@ tags:
 ---
 
 body
-##body
+
+## body
 
 ![alt text](/media/banner-small.png 'img title')
