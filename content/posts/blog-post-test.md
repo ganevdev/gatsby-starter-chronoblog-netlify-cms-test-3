@@ -9,3 +9,5 @@ tags:
 ---
 body
 ##body
+
+![alt text](/img/avatar.png "img title")
