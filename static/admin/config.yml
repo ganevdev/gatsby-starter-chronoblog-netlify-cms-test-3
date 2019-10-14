@@ -6,7 +6,7 @@ media_folder: static/uploads
 public_folder: /uploads
 
 collections:
-  - name: "blog"
+  - name: "post"
     label: "Blog Post"
     folder: "content/posts"
     create: true
